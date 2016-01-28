@@ -43,7 +43,7 @@ Alfred 剪切板历史功能也是必备神器。
 
 
 - [文件 & 文件夹](file.md)
-- [屏幕快照和屏幕录像](price-screen.md)
+- [屏幕快照 & 屏幕录像 & iPhone 投影](price-screen.md)
 - [窗口多屏管理](multiple-screen.md)
 
 ### Windows
