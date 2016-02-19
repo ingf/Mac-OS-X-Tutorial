@@ -17,6 +17,7 @@ Mac 中有个软件 QuickTime Player，他不仅仅是播放器，还可以录�
 ### iPhone 投影
 既然能在 Mac 上对 iPhone 录像，那么 Mac 接上投影仪，就相当于 iPhone 接上投影仪了。
 
-![print-screen.png](assets/print-screen.png)  
+下图是在 Mac 上将对 iPhone 的屏幕录制通过 [licecap](http://www.cockos.com/licecap/)这个软件转换成 gif。
 
-有时候需要将视频转换成 gif，[licecap](http://www.cockos.com/licecap/)这个软件就派上用场了。
+![print-screen.png](assets/print-screen.gif) 
+
